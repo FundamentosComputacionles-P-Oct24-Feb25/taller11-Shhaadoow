@@ -1,4 +1,6 @@
 # Taller11
+### Jefferson Paredes
+### Pablo Ordóñez
 
 * Para el taller se debe usar los conceptos de funciones y procedimientos
 
